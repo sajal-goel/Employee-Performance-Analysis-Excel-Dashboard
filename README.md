@@ -7,11 +7,13 @@ https://github.com/user-attachments/assets/d9027dc7-f741-42da-bfbb-fdd36a8415f6
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Note: If the below error occurs..
+Note: If the below error occurs...
 
 <img width="636" alt="Screenshot 2025-02-01 164453" src="https://github.com/user-attachments/assets/2d49caad-b0de-417b-ad65-a80169f63444" />
 
-then follow this to solve it simply -->
+then follow these steps to solve it simply:
+
+-- Close the Excel file --> Right Click on it --> Click on Properties --> see the video below
 
 https://github.com/user-attachments/assets/5b6e976c-7e22-407f-b64e-fc36f8f894e4
 
